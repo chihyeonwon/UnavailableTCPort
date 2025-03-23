@@ -1,5 +1,5 @@
 TCP Transmission Control Protocol
-
+TCP의 사용 사례 파일 전송 프로토콜(FTP), 단순 메일 전송 프로토콜(SMTP), 인터넷 메시지 액세스 프로콜(IMAP), HTTP. 
 # UnavailableTCPort
 TCP 포트가 0 (Unavailable TCP Port)
 
